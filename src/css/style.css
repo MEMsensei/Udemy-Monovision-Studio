@@ -71,7 +71,7 @@ max-inline-size: 100%;
     font-weight: 400;
     font-size: 60px;
     text-transform: uppercase;
-    color: green;
+    color: var(--light-color);
     @media screen and (max-width: 768px) {
         &{
             font-size: 48px;

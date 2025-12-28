@@ -68,11 +68,10 @@ max-inline-size: 100%;
 }
 
 .promo__title{
-    color: green;
     font-weight: 400;
     font-size: 60px;
     text-transform: uppercase;
-    color: var(--light-color);
+    color: green;
     @media screen and (max-width: 768px) {
         &{
             font-size: 48px;
